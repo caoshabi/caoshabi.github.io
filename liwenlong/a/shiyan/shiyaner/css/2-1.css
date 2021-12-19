@@ -1,0 +1,19 @@
+  	.a table {
+		margin: 0 auto;
+  		width: 700px;
+  		height: 300px;
+        font-size: 20px;
+        border-collapse: collapse;
+    }
+    .a table thead tr th{
+        border: 1px solid green;
+        color: white;
+        background-color: greenyellow;
+    }
+    .a table tbody tr td{
+    	border: 1px solid green;
+        color: black;
+    }
+	.b{
+        background-color: gray;
+	}

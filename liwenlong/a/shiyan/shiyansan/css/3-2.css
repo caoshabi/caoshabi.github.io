@@ -1,0 +1,18 @@
+    .a {
+        width: 730px;
+        line-height: 30px;
+        margin: auto;
+    }
+
+    .a h2 {
+    	text-align: center;
+        letter-spacing: 5px;
+    }
+
+    .a p {
+        text-indent: 2em;
+    }
+    #z {
+        width: 250px;
+        height: 250px;
+    }

@@ -1,0 +1,36 @@
+    .b {
+        letter-spacing: 9px;
+    }
+
+    .a table {
+        border: 3px dashed #87CEFA;
+        background-color: #E0FFFF;
+        width: 300px;
+        margin: auto;
+        padding: 10px 15px 10px;
+    }
+
+    .c {
+    	text-align: center;
+        font-size: 25px;
+    }
+
+    .input_on {
+        border: 1px solid #999;
+        background-color: #87CEFA;
+    }
+
+    .input_off {
+        border: 1px solid #CCC;
+        background-color: #FFF;
+    }
+
+    .input_move {
+        border: 1px solid #999;
+        background-color: #87CEFA;
+    }
+
+    .input_out {
+        border: 1px solid #CCC;
+        background-color: #FFF;
+    }
